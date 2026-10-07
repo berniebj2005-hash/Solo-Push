@@ -5,11 +5,9 @@ This repository contains the documentation and core requirements for the **Sun S
 
 ---
 
-## Project Title
-**Sun Son Solar Web Portal System**
+## Project Title: **Sun Son Solar Web Portal System**
 
-## Team Name
-**SOLO PUSH!**
+## Team Name: **SOLO PUSH!**
 
 ## Description
 A comprehensive web system designed to manage departmental data, role-based user authentication, and employee operations for Sun Son Solar. The system includes client requirement profiles and contact credentials for key representatives, including Katherine Olap Sinagaw and Sol Sun Solis, across organizational divisions such as Administration, IT, Dispatch, Accounting, HR, Marketing, Sales, and Customer Service.
